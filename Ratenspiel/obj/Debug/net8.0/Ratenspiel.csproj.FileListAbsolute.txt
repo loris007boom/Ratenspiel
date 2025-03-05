@@ -1,0 +1,14 @@
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\bin\Debug\net8.0\Ratenspiel.exe
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\bin\Debug\net8.0\Ratenspiel.deps.json
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\bin\Debug\net8.0\Ratenspiel.runtimeconfig.json
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\bin\Debug\net8.0\Ratenspiel.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\bin\Debug\net8.0\Ratenspiel.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\Ratenspiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\Ratenspiel.AssemblyInfoInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\Ratenspiel.AssemblyInfo.cs
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\Ratenspiel.csproj.CoreCompileInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\Ratenspiel.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\refint\Ratenspiel.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\Ratenspiel.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\Ratenspiel.genruntimeconfig.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Ratenspiel\Ratenspiel\obj\Debug\net8.0\ref\Ratenspiel.dll
